@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ChalkyT
-- 👀 I’m interested in Music, Surfing and now Coding
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on projects involved in learning Web Development
+- 👋 Hi, I’m Rhian
+- 👀 I’m interested in Music and Coding
+- 🌱 I’m currently studying CS50x
+- 💞️ I’m looking to collaborate on Spotify projects
 - 📫 How to reach me ...
 
 <!---
