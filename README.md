@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rhi
 - 👀 I’m interested in Music and Coding
-- 🌱 I’m currently studying for my AWS cloud practioner cert. I code in Ruby, Python and have recently been buidling with Django.
+- 🌱 I’m currently studying for my AWS cloud practioner cert. I code in Ruby, Python and have recently been building with Django.
 - 💞️ I'm also interested in learning about Generative Art. 
 
 <!---
