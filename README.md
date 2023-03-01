@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rhi
-- 🌱 Currently studying for my AWS cloud practioner cert. I code in Ruby, Python and have recently been building with Django and Svelte.
+- 🌱 Currently studying for my AWS cloud practioner cert. I code in Ruby, Python and have recently been building with Django, Django REST Framework and Svelte.
 - 💞️ I'm also interested in learning Generative Art. 
 
 <!---
