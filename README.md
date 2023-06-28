@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rhi.
-- 🌱 I'm employed as a full time Software Engineer. I'm AWS cloud practioner certified. I code in Ruby and Python.
+- 🌱 I'm a full time Software Engineer, AWS cloud practioner certified and code in Ruby and Python.
 
 <!---
 ChalkyT/ChalkyT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
