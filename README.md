@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rhi.
 - 🌱 I'm a full time Software Engineer at Deeper Insights.
--  AWS certified and code in Ruby and Python.
+- 🧐 AWS certified and code in Ruby and Python.
 
 <!---
 ChalkyT/ChalkyT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
