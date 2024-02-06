@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rhi.
-- 🌱 I'm a full time Junior Software Engineer at Deeper Insights.
+- 🌱 I'm a Junior Software Engineer at Deeper Insights.
 - 🧐 AWS certified.
 - 🧐 Ruby, Python, Pytest.
 <!---
